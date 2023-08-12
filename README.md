@@ -1,10 +1,10 @@
-![image](https://github.com/jan-1995/jan-1995/assets/67482677/62922595-6fb4-4ee8-8891-23936aa8135c)# Hello, World! 👋 I'm Haider
+# Hello, World! 👋 I'm Haider
 
 Welcome to my GitHub playground, where I'm on a mission to unravel the mysteries of data science and machine learning. I'm thrilled to have you here, so let's dive into the world of AI-driven insights and innovative projects!
 
 ## 🌟 Unleashing the Power of Machine Learning
 
-![Machine Learning GIF]([https://media.giphy.com/media/XH9wwXfUXu91S/source.gif](https://giphy.com/gifs/NeighborlyNotaryNYC-artificial-intelligence-roberta-arnone-neighborly-notary-tkQbZfMb4686Kht2Ds))
+![Machine Learning GIF](https://media.giphy.com/media/XH9wwXfUXu91S/source.gif)
 
 My repositories are brimming with projects that showcase the incredible potential of machine learning. From predictive modeling to natural language processing, I've embarked on a journey to explore and conquer the frontiers of AI.
 
