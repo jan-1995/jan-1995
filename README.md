@@ -15,7 +15,7 @@ Delving into the realm of data, I've uncovered fascinating insights through rigo
 ## 🚀 Let's Collaborate and Innovate
 
 
-I thrive on collaboration and the excitement of turning ideas into reality. If you're as passionate about machine learning and data science as I am, or if you simply want to connect and exchange ideas, don't hesitate to drop me an email at 'janhr@mail.uc.edu'.
+I thrive on collaboration and the excitement of turning ideas into reality. If you're as passionate about machine learning and data science as I am, or if you simply want to connect and exchange ideas, don't hesitate to drop me an email at 'janhaider040@gmail.com'.
 
 Stay curious, keep exploring, and let's embark on a journey to transform data into intelligence together!
 
