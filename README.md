@@ -1,35 +1,43 @@
-# Hi, I'm Haider
+# Haider Jan 👋
 
 **Data & AI Engineer at Royal Cyber Inc.**
 
----
-
-### About Me
-
-I build end-to-end data pipelines and AI solutions that drive real business impact.
-
-My work sits at the intersection of **Data Engineering** and **Artificial Intelligence** — designing scalable lakehouse architectures, developing machine learning models, and deploying LLM-powered applications into production.
+![Databricks Data Engineer Associate](https://img.shields.io/badge/Databricks-Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
-### What I Do
+### From Robots to Data Pipelines
+
+I used to teach drones how to navigate and robots how to see. Now I teach data how to flow and models how to think.
+
+My work sits at the intersection of **Data Engineering** and **Artificial Intelligence** — designing scalable lakehouse architectures, developing machine learning models, and deploying LLM-powered applications into production. I build end-to-end solutions that don't just work in notebooks, they ship.
+
+---
+
+### What I'm Building
 
 **Data Engineering**  
-Building robust data pipelines on the Databricks Lakehouse Platform using Delta Lake, Unity Catalog, and Apache Spark. Designing medallion architectures that transform raw data into reliable, analytics-ready assets.
+Robust data pipelines on the Databricks Lakehouse Platform using Delta Lake, Unity Catalog, and Apache Spark. Medallion architectures that transform chaos into analytics-ready gold.
 
 **AI & Machine Learning**  
-Developing and deploying ML models with MLflow, building RAG-based LLM applications with LangChain, and implementing computer vision solutions with OpenCV and deep learning frameworks.
+ML models with MLflow, RAG-based LLM applications with LangChain and Azure AI Foundry, and computer vision solutions with OpenCV and deep learning frameworks.
 
 **MLOps**  
-Taking models from notebooks to production — CI/CD pipelines, model versioning, monitoring, and orchestration with tools like Airflow and Databricks Workflows.
+The unsexy work that makes AI actually useful — CI/CD pipelines, model versioning, monitoring, and orchestration with Airflow and Databricks Workflows.
 
 ---
 
-### Background
+### The Backstory
 
-Before diving deep into the data world, I came from **robotics and autonomous systems** — working on SLAM algorithms, drone navigation, and sensor fusion. That background shaped how I approach problems: systems thinking, real-time constraints, and a bias toward solutions that actually ship.
+Before data became my thing, I lived in the world of **robotics and autonomous systems** — SLAM algorithms, drone navigation, sensor fusion. Building systems where failure meant hardware hitting the ground taught me to think in terms of reliability, real-time constraints, and solutions that actually survive contact with reality.
 
-Currently pursuing my **Master's in Mechanical & Materials Engineering** at Western University.
+Currently wrapping up my **Master's in Mechanical & Materials Engineering** at Western University.
+
+---
+
+## Certifications
+
+![Databricks Data Engineer Associate](https://img.shields.io/badge/Databricks-Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
@@ -54,6 +62,7 @@ Currently pursuing my **Master's in Mechanical & Materials Engineering** at West
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
