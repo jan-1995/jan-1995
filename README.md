@@ -31,7 +31,6 @@ The unsexy work that makes AI actually useful — CI/CD pipelines, model version
 
 Before data became my thing, I lived in the world of **robotics and autonomous systems** — SLAM algorithms, drone navigation, sensor fusion. Building systems where failure meant hardware hitting the ground taught me to think in terms of reliability, real-time constraints, and solutions that actually survive contact with reality.
 
-Currently wrapping up my **Master's in Mechanical & Materials Engineering** at Western University.
 
 ---
 
